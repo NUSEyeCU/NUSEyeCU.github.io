@@ -1,2 +1,2 @@
 # NUSEyeCU.github.io
-EyeCU stuff
+Webpage for EyeCU
